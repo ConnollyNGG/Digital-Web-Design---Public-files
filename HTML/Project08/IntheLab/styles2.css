@@ -1,0 +1,19 @@
+h1 {font-size: 32pt;
+    font-family: Calligrapher, Magneto;
+    color: red;
+    margin-left: 10}
+
+p {font-family: "Arial Black", Boulder;
+   color: red;
+   margin-left: 10}
+
+a {text-decoration: none;
+   color: black;
+   font-style: italic}
+
+img {border-style: double;
+     border-width: thick;
+     margin: 10}
+
+
+ 

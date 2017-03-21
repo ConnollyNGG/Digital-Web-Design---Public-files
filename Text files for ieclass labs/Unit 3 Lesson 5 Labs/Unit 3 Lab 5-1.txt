@@ -1,0 +1,62 @@
+1962
+J.C.R. Licklider of MIT proposed the development of a global network of computers. He was brought on board by the Defense Advanced Research Projects Agency (DARPA) to develop the project he proposed.
+Back to Top
+
+
+1965
+Using a simple dial up connection, Lawrence Roberts of MIT connected the Lincoln Labs TX-2/ANS/Q-32 computer in Massachusetts to Marill's SDC's Q32 computer in California to create the world's first digital network communications.
+Back to Top
+
+1969
+A prototype of the Internet, known as ARPANET, was brought online. The ARPANET consisted of four computers located at UCAL, Stanford Research Institutes, University of California at Santa Barbara, and University of Utah.
+Back to Top
+
+
+1972
+Ray Tomlinson of Raytheon BBN Technologies adapted email for ARPANET. He selected the @ symbol to separate the users from the host in the email address, and that structure still remains today.
+Back to Top
+
+
+1973
+The ftp protocol, enabling file transfer between Internet locations was developed.
+Back to Top
+
+
+1974
+The term "Internet" first came to reference the global network of computers. The global network was differentiated from smaller internets by the capital letter "I" in its name.
+Back to Top
+
+
+1979
+Usenet, an early version of the message board, was created and CompuServe became the first to offer electronic email service, an early version of email.
+Back to Top
+
+
+1980
+Bob Kahn with Raytheon BBN Technologies proposed the TCP/IP architecture.
+Back to Top
+
+
+1983
+TCP/IP was universally adopted as the standard method of communication among computers on the Internet.
+Back to Top
+
+
+1989
+Tim Burners-Lee proposes the TCP/IP protocol and invents the HTML formatting language.
+Back to Top
+
+
+1993
+America online offers email service to the public and becomes the largest Internet Service Provider. Development on Mosiac, the first graphical browser, begins.
+Back to Top
+
+
+1994
+Tim Burners-Lee organize the World Wide Web Consortium to define standards for web development
+Back to Top
+
+
+1998
+Microsoft releases Windows 98, the first operating system with an integrated web browser.
+Back to Top
